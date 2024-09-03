@@ -3,3 +3,9 @@
 
 # Ada Library Information
 *.ali
+node_modules
+cypress.config.js
+package-lock.json
+package.json
+example.json
+test3
